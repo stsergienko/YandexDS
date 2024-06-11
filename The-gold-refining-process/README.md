@@ -6,7 +6,7 @@
 
 # Навыки и инструменты: #
 * Python
-* * Pandas
+* Pandas
 * Matplotlib
 * NumPy
 * Scikit-learn
