@@ -5,6 +5,9 @@
 Разработка системы предсказания объема заказа.
 
 # Навыки и инструменты: #
-Pandas,Python,Scikit-learn,statsmodels
+* Pandas
+* Python
+* Scikit-learn
+* statsmodels
 
 # Вывод: #
